@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Asumioi.github.io/hugo-dev/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-13T14:26:31+08:00</lastmod>
+  </url><url>
+    <loc>https://Asumioi.github.io/hugo-dev/p/new/</loc>
+    <lastmod>2024-08-13T14:26:31+08:00</lastmod>
+  </url><url>
+    <loc>https://Asumioi.github.io/hugo-dev/post/</loc>
+    <lastmod>2024-08-13T14:26:31+08:00</lastmod>
   </url><url>
     <loc>https://Asumioi.github.io/hugo-dev/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Asumioi.github.io/hugo-dev/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Asumioi.github.io/hugo-dev/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Asumioi.github.io/hugo-dev/categories/test/</loc>
